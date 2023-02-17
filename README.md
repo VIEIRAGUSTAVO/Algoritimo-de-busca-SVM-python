@@ -11,6 +11,20 @@
 ![image](https://user-images.githubusercontent.com/89616918/219513835-64c7a2e4-11c3-4af3-9b1f-e02ca5e6798c.png)
 ![image](https://user-images.githubusercontent.com/89616918/219513861-89e57cbc-ba58-4c9b-851a-60bcdd06ab1f.png)
 
-<p>linkedin Gustavo Vieira: https://www.linkedin.com/feed/</p>
- 
-<p>linkedinRafael Henrique Gonçalves:https://www.linkedin.com/in/rhg2022/</p>
+#Projetos que não saem do papel são como sonhos que não se realizam.
+
+##Author
+👤 **Gustavo Vieira**
+Github: @VIEIRAGUSTAVO
+Linkedin: @Gustavo Vieira
+
+👤**Rafael Henrique**
+Linkedin: @Rafael Henrique
+
+##Contributing
+Contributions, issues and feature requests are welcome!
+
+##Show your support
+Give a ⭐️ if this project helped you!
+
+Made by 💙 by Gustavo Vieira e Rafael Henrique
