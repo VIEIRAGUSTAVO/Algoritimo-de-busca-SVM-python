@@ -11,6 +11,6 @@
 ![image](https://user-images.githubusercontent.com/89616918/219513835-64c7a2e4-11c3-4af3-9b1f-e02ca5e6798c.png)
 ![image](https://user-images.githubusercontent.com/89616918/219513861-89e57cbc-ba58-4c9b-851a-60bcdd06ab1f.png)
 
-<h1 style: font-size: 12px;>linkedin Gustavo Vieira: https://www.linkedin.com/feed/</h1>
+<h1 style="font-syze:12px">linkedin Gustavo Vieira: https://www.linkedin.com/feed/</h1>
  
 <h1>linkedinRafael Henrique Gonçalves:https://www.linkedin.com/in/rhg2022/</h1>
