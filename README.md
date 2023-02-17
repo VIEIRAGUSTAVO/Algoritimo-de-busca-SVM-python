@@ -11,6 +11,6 @@
 ![image](https://user-images.githubusercontent.com/89616918/219513835-64c7a2e4-11c3-4af3-9b1f-e02ca5e6798c.png)
 ![image](https://user-images.githubusercontent.com/89616918/219513861-89e57cbc-ba58-4c9b-851a-60bcdd06ab1f.png)
 
-<p style="color: blue">linkedin Gustavo Vieira: https://www.linkedin.com/feed/</p>
+<p>linkedin Gustavo Vieira: https://www.linkedin.com/feed/</p>
  
-<h1>linkedinRafael Henrique Gonçalves:https://www.linkedin.com/in/rhg2022/</h1>
+<p>linkedinRafael Henrique Gonçalves:https://www.linkedin.com/in/rhg2022/</p>
